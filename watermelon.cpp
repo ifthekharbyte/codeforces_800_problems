@@ -16,3 +16,5 @@ int main()
         cout<<"NO";
     }
 }
+
+// first problem done
